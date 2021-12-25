@@ -1,12 +1,13 @@
----
-title: Hello World
+---merhaba dunya
+title: selam dunya
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
-type: quick_start
+type: 
+
 topics:
   - Pull requests
   - Fundamentals
